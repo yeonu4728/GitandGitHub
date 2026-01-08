@@ -1,0 +1,17 @@
+---
+title: "GitandGitHub_20260107"
+author: "Yeonwoo_Abbie"
+format: gfm
+editor: visual
+date: 2026-01-07
+---
+
+## #1 first header
+
+*Hello* **bold**
+
+```{r}
+10+20
+```
+
+## ##2 subheader
